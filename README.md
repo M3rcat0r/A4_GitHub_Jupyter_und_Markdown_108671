@@ -1,2 +1,2 @@
-# A4_GitHub_Jupyter_und_Markdown_108671
-Grundlagen der Anwendungsentwicklung A4
+# Grundlagen der Anwendungsentwicklung A4
+## Submitted by 108671
